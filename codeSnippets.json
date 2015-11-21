@@ -1,0 +1,54 @@
+{
+   "results" : [
+    {
+		"title" : "Title 1",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	},
+	{
+		"title" : "Title 2",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	},
+	{
+		"title" : "Title 3",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	},
+	{
+		"title" : "Title 4",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	},
+	{
+		"title" : "Title 5",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	},
+	{
+		"title" : "Title 6",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	},
+	{
+		"title" : "Title 7",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	},
+	{
+		"title" : "Title 8",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	},	{
+		"title" : "Title 9",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	},
+	{
+		"title" : "Title 10",
+		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"source" : "Ipsum Designs"
+	}
+],
+"status" : "OK"
+}

@@ -1,53 +1,53 @@
 {
    "results" : [
     {
-		"title" : "Title 1",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
+		"title" : "Vintage",
+		"link" : "https://pixabay.com/static/uploads/photo/2015/02/18/16/01/vintage-640941_960_720.jpg",
+		"source" : "https://pixabay.com/en/vintage-text-typography-style-640941/"
+	},
+	{
+		"title" : "Friday",
+		"link" : "https://pixabay.com/static/uploads/photo/2015/10/30/01/15/friday-1013309_960_720.jpg",
+		"source" : "https://pixabay.com/en/friday-wordpress-typography-word-1013309/"
+	},
+	{
+		"title" : "A palette with wit",
+		"link" : "http://www.typography.com/images/ask-hfj/combining-fonts/combo-a-hover.jpg",
+		"source" : "http://www.typography.com/techniques/"
+	},
+	{
+		"title" : "A palette with energy",
+		"link" : "http://www.typography.com/images/ask-hfj/combining-fonts/combo-b-hover-2.jpg",
 		"source" : "Ipsum Designs"
 	},
 	{
-		"title" : "Title 2",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
+		"title" : "A palette with poise",
+		"link" : "http://www.typography.com/images/ask-hfj/combining-fonts/combo-c-hover.jpg",
+		"source" : "http://www.typography.com/techniques/"
 	},
 	{
-		"title" : "Title 3",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
+		"title" : "A palette with dignity",
+		"link" : "http://www.typography.com/images/ask-hfj/combining-fonts/combo-d-hover.jpg",
+		"source" : "http://www.typography.com/techniques/"
 	},
 	{
-		"title" : "Title 4",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
+		"title" : "Alegreya, Roboto Condensed, Roboto",
+		"link" : "http://www.mrmcguire.com/wp-content/uploads/2013/07/alegreya-roboto.png",
+		"source" : "http://www.mrmcguire.com/10-useful-google-font-combinations-for-your-next-site/"
 	},
 	{
-		"title" : "Title 5",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
-	},
-	{
-		"title" : "Title 6",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
-	},
-	{
-		"title" : "Title 7",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
-	},
-	{
-		"title" : "Title 8",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
+		"title" : "Dancing Script, EB Garamond",
+		"link" : "http://www.mrmcguire.com/wp-content/uploads/2013/07/ebgaramond-dancing.png",
+		"source" : "http://www.mrmcguire.com/10-useful-google-font-combinations-for-your-next-site/"
 	},	{
-		"title" : "Title 9",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
+		"title" : "Amatic SC, Josefin Sans",
+		"link" : "http://www.mrmcguire.com/wp-content/uploads/2013/07/josefin-amatic.png",
+		"source" : "http://www.mrmcguire.com/10-useful-google-font-combinations-for-your-next-site/"
 	},
 	{
-		"title" : "Title 10",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
+		"title" : "Oswald, Droid Serif",
+		"link" : "http://www.mrmcguire.com/wp-content/uploads/2013/07/oswald-droid.png",
+		"source" : "http://www.mrmcguire.com/10-useful-google-font-combinations-for-your-next-site/"
 	}
 ],
 "status" : "OK"

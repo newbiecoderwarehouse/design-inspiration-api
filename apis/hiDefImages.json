@@ -1,9 +1,9 @@
 {
    "results" : [
     {
-		"title" : "Title 1",
-		"link" : "http://rxsharp.github.io/my-snapfile/images/filler-image.svg",
-		"source" : "Ipsum Designs"
+		"title" : "Image from PEXELS",
+		"link" : "https://static.pexels.com/photos/790/person-girl-cute-young-large.jpg",
+		"source" : "https://www.pexels.com/photo/person-girl-cute-young-790/"
 	},
 	{
 		"title" : "Title 2",

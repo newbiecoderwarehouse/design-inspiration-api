@@ -1,0 +1,18 @@
+$.backstretch([
+      "Images/bgimages/black-and-white-dark-car-vehicle.jpg"
+    , "Images/bgimages/black-and-white-lights-abstract-curves.jpg"
+    , "Images/bgimages/pexels-photo.jpg"
+    , "Images/bgimages/black-and-white-bridge-wooden.jpg"
+    , "Images/bgimages/black-and-white-lights-abstract.jpg"
+    , "Images/bgimages/black-and-white-park-germany.jpg"
+    , "Images/bgimages/black-and-white-street-walking-zebra-crossing.jpg"
+    , "Images/bgimages/black-1000439_1920.jpg"
+    , "Images/bgimages/black-and-white-1010819_1920.jpg"
+    , "Images/bgimages/books-677897_1920.jpg"
+    , "Images/bgimages/flower-1063815_1920.jpg"
+    , "Images/bgimages/lighthouse-1065322_1920.jpg"
+    , "Images/bgimages/mystery-1040972_1280.jpg"
+    , "Images/bgimages/portrait-1061060_1920.jpg"
+    , "Images/bgimages/tree-1031814_1920.jpg"
+    , "Images/bgimages/wall-175686_1920.jpg"
+  ], {duration: 3000, fade: 750});
